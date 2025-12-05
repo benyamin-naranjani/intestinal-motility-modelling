@@ -1,4 +1,4 @@
-# Intestinal Motility Modeling
+# Intestinal Motility Modelling
 
 This repository contains the COMSOL simulation models used in the study:
 
